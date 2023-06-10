@@ -1,2 +1,9 @@
-one
+chapter 1 done
+
+https://www.youtube.com/watch?v=CvCiNeLnZ00
+
+chapter 2 middleware
+now chapter 3 : mongodb
+
+
 
